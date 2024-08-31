@@ -13,7 +13,7 @@ public class ProductWriter {
         boolean done = false;
         Scanner in = new Scanner(System.in);
 
-        String fileInfo = "";
+        String fileInfo = ""; //finding what file the user wants
 
         File workingDirectory = new File(System.getProperty("user.dir"));
 

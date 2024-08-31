@@ -104,7 +104,7 @@ public class SafeInput
 
     /**
      * get a double value within an inclusive range
-     * @param pipe - Scanner instance to read the data System.in in most cases
+     * @param pipe - Scanner instance to read the data System.in i most cases
      * @param prompt - input prompt msg should not contain range info
      * @param low - low value inclusive
      * @param high - high value inclusive
